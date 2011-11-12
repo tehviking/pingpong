@@ -1,0 +1,18 @@
+// Place all the styles related to the Heros controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+a {
+  color: #2f3a3f;
+}
+  
+span {
+  float: right;
+  font-weight: normal;
+
+  img {
+    -moz-box-shadow: 1px 1px 2px #e7f0f4;
+    -webkit-box-shadow: 1px 1px 2px #e7f0f4;
+    box-shadow: 1px 1px 2px #e7f0f4;
+  }
+}
